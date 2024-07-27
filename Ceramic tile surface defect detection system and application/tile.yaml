@@ -1,0 +1,4 @@
+train: D:/Program/hulianwang+/yolov10/Ceramic tile surface defect detection system and application/tile_data/images
+val: D:/Program/hulianwang+/yolov10/Ceramic tile surface defect detection system and application/val_data/images
+nc: 1
+names: ['ceramic']
